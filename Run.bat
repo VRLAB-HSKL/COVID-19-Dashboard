@@ -1,7 +1,7 @@
 @ECHO OFF
 
 SET dir=%~dp0
-SET R="C:\Program Files\R\R-3.6.1\bin\Rscript.exe"
+SET R="C:\Program Files\R\R-4.0.3\bin\Rscript.exe"
 
 %R% %dir%setWorkingDirectory.R %dir%
 IF NOT EXIST data (
