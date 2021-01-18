@@ -215,25 +215,25 @@ ui <- dashboardPage(
              tags$br(),
              
              HTML('<center><h4>Jens Cedric Schug </h4></center>'),
-             HTML('<center><h4>Fachbereich Informatik und Mikrosystemtechnik </h4></center>'),
-             HTML('<center><h4>Hochschule Kaiserslautern </h4></center>'),
-             HTML('<center><h4>Zweibruecken, Deutschland </h4></center>'),
+             HTML('<center><h4>Department of Computer Science and Microsystems Technology</h4></center>'),
+             HTML('<center><h4>University of Applied Sciences Kaiserslautern</h4></center>'),
+             HTML('<center><h4>Campus Zweibruecken, Germany</h4></center>'),
              HTML('<center><h4><a href="mailto:jesc0030@stud.hs-kl.de">jesc0030@stud.hs-kl.de</a></h4></center>'),
              
              tags$br(),
              
              HTML('<center><h4>Julian Bernhart </h4></center>'),
-             HTML('<center><h4>Fachbereich Informatik und Mikrosystemtechnik </h4></center>'),
-             HTML('<center><h4>Hochschule Kaiserslautern </h4></center>'),
-             HTML('<center><h4>Zweibruecken, Deutschland </h4></center>'),
+             HTML('<center><h4>Department of Computer Science and Microsystems Technology</h4></center>'),
+             HTML('<center><h4>University of Applied Sciences Kaiserslautern</h4></center>'),
+             HTML('<center><h4>Campus Zweibruecken, Germany</h4></center>'),
              HTML('<center><h4><a href="mailto:jube0010@stud.hs-kl.de">jube0010@stud.hs-kl.de</a></h4></center>'),
              
              tags$br(),
              
              HTML('<center><h4>Marco Miles Noll </h4></center>'),
-             HTML('<center><h4>Fachbereich Informatik und Mikrosystemtechnik </h4></center>'),
-             HTML('<center><h4>Hochschule Kaiserslautern </h4></center>'),
-             HTML('<center><h4>Zweibruecken, Deutschland </h4></center>'),
+             HTML('<center><h4>Department of Computer Science and Microsystems Technology</h4></center>'),
+             HTML('<center><h4>University of Applied Sciences Kaiserslautern</h4></center>'),
+             HTML('<center><h4>Campus Zweibruecken, Germany</h4></center>'),
              HTML('<center><h4><a href="mailto:mano0010@stud.hs-kl.de">mano0010@stud.hs-kl.de</a></h4></center>'),
              
              tags$br(),
@@ -243,9 +243,9 @@ ui <- dashboardPage(
              tags$br(),
              
              HTML('<center><h4>Prof. Dr. Manfred Brill </h4></center>'),
-             HTML('<center><h4>Fachbereich Informatik und Mikrosystemtechnik </h4></center>'),
-             HTML('<center><h4>Hochschule Kaiserslautern </h4></center>'),
-             HTML('<center><h4>Zweibruecken, Deutschland </h4></center>'),
+             HTML('<center><h4>Department of Computer Science and Microsystems Technology</h4></center>'),
+             HTML('<center><h4>University of Applied Sciences Kaiserslautern</h4></center>'),
+             HTML('<center><h4>Campus Zweibruecken, Germany</h4></center>'),
              HTML('<center><h4><a href="https://www.hs-kl.de/hochschule/profil/personenverzeichnis/detailanzeige-personen/person/manfred-brill" target="_blank">About Manfred Brill</a></h4></center>'),
              HTML('<center><h4><a href="mailto:manfred.brill@hs-kl.de">manfred.brill@hs-kl.de</a></h4></center>'),
 
