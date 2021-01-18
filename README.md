@@ -18,14 +18,16 @@
 
 <a name="introduction"></a>
 ## Indroduction
-A project from the summer semester 2020 for the University of Applied Sciences of Kaiserslautern at the Zweibrücken site. This project provides a dashboard which visualizes the data for the actual global Covid-19-situation. The data is provided by the John Hopkins University.
+A student project in the summer term 2020 for the University of Applied Sciences of Kaiserslautern at campus Zweibrücken. 
+The project provides a dashboard which visualizes the data for the actual global Covid-19-situation. The data is provided by the John Hopkins University.
 
+The dashboard is implemented using R, Shiny and plotly.
 <a name="components"></a>
 ## Components
 
 <a name="app"></a>
 ### app.R
-The main file of the Shiny application that builds the dashboard. This script contains the code for user interface and server.
+The main file of the Shiny application that builds the dashboard. This script contains the code for user interface and server. Open it in RStudio and use *Run App*.
 
 <a name="data"></a>
 ### prepareData.R
@@ -82,37 +84,35 @@ This is a list of all the R packages used and the source of code sections that w
 ## Imprints
 
 Jens Cedric Schug   
-Fachbereich Informatik und Mikrosystemtechnik   
-Hochschule Kaiserslautern  
-Zweibruecken, Deutschland  
+Department of Computer Science and Microsystems Technology
+University of Applied Sciences Kaiserslautern  
+Zweibruecken, Germany  
 <a href="mailto:jesc0030@stud.hs-kl.de">jesc0030@stud.hs-kl.de</a>  
              
   
                
 Julian Bernhart  
-Fachbereich Informatik und Mikrosystemtechnik  
-Hochschule Kaiserslautern  
-Zweibruecken, Deutschland    
+Department of Computer Science and Microsystems Technology
+University of Applied Sciences Kaiserslautern  
+Zweibruecken, Germany  
 <a href="mailto:jube0010@stud.hs-kl.de">jube0010@stud.hs-kl.de</a>  
   
   
   
 Marco Miles Noll  
-Fachbereich Informatik und Mikrosystemtechnik  
-Hochschule Kaiserslautern  
-Zweibruecken, Deutschland  
+Department of Computer Science and Microsystems Technology
+University of Applied Sciences Kaiserslautern  
+Zweibruecken, Germany  
 <a href="mailto:mano0010@stud.hs-kl.de">mano0010@stud.hs-kl.de</a>  
              
 
              
 ### Supervisor   
              
-
-             
 Prof. Dr. Manfred Brill   
-Fachbereich Informatik und Mikrosystemtechnik   
-Hochschule Kaiserslautern   
-Zweibruecken, Deutschland   
+Department of Computer Science and Microsystems Technology
+University of Applied Sciences Kaiserslautern  
+Zweibruecken, Germany  
 <a href="https://www.hs-kl.de/hochschule/profil/personenverzeichnis/detailanzeige-personen/person/manfred-brill">About Manfred Brill</a>  
 <a href="mailto:manfred.brill@hs-kl.de">manfred.brill@hs-kl.de</a>  
              
